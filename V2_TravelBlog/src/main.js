@@ -10,7 +10,7 @@ const app = createApp(App)
 
 app.use(VueGoogleMaps, {
     load: {
-        key: 'AIzaSyBiVJiuCeLG1H2Y4BFzjBKcLi5UAkuD5VU',
+        key: '',
         libraries: "places"
     }
 })

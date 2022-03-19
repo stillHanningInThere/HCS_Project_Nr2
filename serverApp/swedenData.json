@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "title": "Sweden",
+        "location": "Ivö",
+        "visitingDate": "08-2020",
+        "author": "Jonas",
+        "image": "https://i.pinimg.com/originals/39/8d/2e/398d2e9e6214df9f4b120b5aa706b68a.jpg",
+        "text": "Sweden is the most beautiful country in the world",
+        "name": "sweden",
+        "lat": "56.1",
+        "lng": "14.1"
+    }
+]

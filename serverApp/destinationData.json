@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "title": "Sweden",
+        "location": "Ivö",
+        "visitingDate": "08-2020",
+        "author": "Jonas",
+        "image": "https://i.pinimg.com/originals/39/8d/2e/398d2e9e6214df9f4b120b5aa706b68a.jpg",
+        "text": "Sweden is the most beautiful country in the world",
+        "name": "sweden",
+        "lat": "56.1",
+        "lng": "14.1"
+    },
+    {
+        "id": 1,
+        "title": "Greece",
+        "location": "Paros/Naxos",
+        "visitingDate": "06-2018",
+        "author": "Jonas",
+        "image": "https://i.pinimg.com/originals/39/8d/2e/398d2e9e6214df9f4b120b5aa706b68a.jpg",
+        "text": "Greece is soo warm in June",
+        "name": "greece",
+        "lat": "37.035",
+        "lng": "25.378"
+    },
+    {
+        "id": 2,
+        "title": "Paris",
+        "location": "Paris",
+        "visitingDate": "12-2017",
+        "author": "Jonas",
+        "image": "https://i.pinimg.com/originals/39/8d/2e/398d2e9e6214df9f4b120b5aa706b68a.jpg",
+        "text": "Paris the city of love",
+        "name": "paris",
+        "lat": "48.8822",
+        "lng": "2.3419"
+    },
+    {
+        "id": 3,
+        "title": "Cycling Mallorca",
+        "location": "Alcudia",
+        "visitingDate": "03-2017",
+        "author": "Jonas",
+        "image": "https://i.pinimg.com/originals/39/8d/2e/398d2e9e6214df9f4b120b5aa706b68a.jpg",
+        "text": "Mallorca, best place to cycle and drink coffee",
+        "name": "mallorca",
+        "lat": "39.819",
+        "lng": "3.1146"
+    },
+    {
+        "id": 4,
+        "title": "Molotow",
+        "location": "Reeperbahn, Hamburg",
+        "visitingDate": "04-2014",
+        "author": "Jonas",
+        "image": "https://i.pinimg.com/originals/39/8d/2e/398d2e9e6214df9f4b120b5aa706b68a.jpg",
+        "text": "The second best place in Hamburg",
+        "name": "molotow",
+        "lat": "53.5499",
+        "lng": "9.9565"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 3,
+        "title": "Mallorca",
+        "location": "Alcudia",
+        "visitingDate": "03-2017",
+        "author": "Jonas",
+        "image": "https://i.ytimg.com/vi/1ynSFcRSMmU/hqdefault.jpg",
+        "text": "Mallorca, best place to cycle and drink coffee",
+        "name": "mallorca",
+        "lat": "39.819",
+        "lng": "3.1146"
+    }
+]

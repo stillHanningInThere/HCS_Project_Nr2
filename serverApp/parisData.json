@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "title": "Paris",
+        "location": "Paris",
+        "visitingDate": "12-2017",
+        "author": "Jonas",
+        "image": "https://www.easyjet.com/ejcms/cache/medialibrary/Images/JSS/Destinations/Hero/France_Paris_3840x2160.jpg?mw=1920&hash=E8AA30B1E85F5D76DD8D14A78D8D9C0AB7DC52C7",
+        "text": "Paris the city of love",
+        "name": "paris",
+        "lat": "48.8822",
+        "lng": "2.3419"
+    }
+]

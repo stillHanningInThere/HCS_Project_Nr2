@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Greece",
+        "location": "Paros/Naxos",
+        "visitingDate": "06-2018",
+        "author": "Jonas",
+        "image": "https://www.vacanzegreche.com/public/img/data/202033114546334_naxos-town-il-capoluogo-isola-di-naxos.jpg",
+        "text": "Greece is soo warm in June",
+        "name": "greece",
+        "lat": "37.035",
+        "lng": "25.378"
+    }
+]

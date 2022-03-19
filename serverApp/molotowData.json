@@ -1,0 +1,14 @@
+[
+    {
+        "id": 4,
+        "title": "Molotow",
+        "location": "Reeperbahn",
+        "visitingDate": "to long ago...",
+        "author": "Jonas",
+        "image": "https://www.ndr.de/nachrichten/hamburg/molotow308_v-contentxl.jpg",
+        "text": "The second best place in Hamburg",
+        "name": "molotow",
+        "lat": "53.5499",
+        "lng": "9.9565"
+    }
+]

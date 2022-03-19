@@ -1,0 +1,27 @@
+{
+  "name": "v2-travelblog",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.4",
+    "@fortawesome/fontawesome-svg-core": "^6.1.0",
+    "@fortawesome/free-regular-svg-icons": "^6.1.0",
+    "@fortawesome/free-solid-svg-icons": "^6.1.0",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5",
+    "axios": "^0.26.0",
+    "bulma": "^0.9.3",
+    "vue": "^3.2.31",
+    "vue-gallery-slideshow": "^1.5.2",
+    "vue-router": "^4.0.12",
+    "vuejs-image-gallery": "^0.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.2",
+    "vite": "^2.8.4",
+    "vite-plugin-fonts": "^0.3.0"
+  }
+}

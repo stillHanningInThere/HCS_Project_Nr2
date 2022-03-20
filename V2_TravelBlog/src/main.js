@@ -8,9 +8,11 @@ import { faMountainSun } from '@fortawesome/free-solid-svg-icons';
 
 const app = createApp(App)
 
+
 app.use(VueGoogleMaps, {
     load: {
-        key: '',
+
+        key: import.meta.env.VITE_SOME_KEY,
         libraries: "places"
     }
 })

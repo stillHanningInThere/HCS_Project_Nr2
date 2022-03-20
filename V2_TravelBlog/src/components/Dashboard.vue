@@ -11,13 +11,11 @@
 </template>
 
 <script>
-import ComponentWithMap from "./ComponentWithMap.vue";
 import DashboardDestination from "./dashboardDestination.vue";
 import SeconMapVue from "./SeconMap.vue";
 
 export default {
   components: {
-    ComponentWithMap,
     DashboardDestination,
     SeconMapVue
 }
